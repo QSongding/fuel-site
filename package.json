@@ -1,0 +1,11 @@
+{
+  "name": "fuel-site",
+  "version": "1.0.0",
+  "description": "Fuel Studio - mirrored static site",
+  "type": "module",
+  "scripts": {
+    "rewrite": "node rewrite-urls.mjs",
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}

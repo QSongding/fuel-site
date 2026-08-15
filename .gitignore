@@ -1,0 +1,21 @@
+# Fuel Studio 部署配置
+# 排除：临时脚本、备份、调试文件
+translations.mjs
+apply-translations.mjs
+fix-syntax.mjs
+fix-04.mjs
+restore-04.mjs
+restore.mjs
+analyze-html.mjs
+analyze-js.mjs
+analyze-js2.mjs
+analyze-js3.mjs
+analyze-js4.mjs
+analyze-broken.mjs
+check-import.mjs
+check-syntax.mjs
+check-syntax2.mjs
+search-remaining.mjs
+search-04.mjs
+translation-backup/
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "startUrl": "https://cherished-happen-241290.framer.app/",
+  "outDir": "D:\\codex\\Gezhan\\tools\\site-crawler\\site-crawl",
+  "downloadedPages": 12,
+  "downloadedAssets": 131,
+  "limits": {
+    "maxPages": 50,
+    "maxAssets": 500,
+    "concurrency": 3,
+    "delayMs": 200
+  }
+}
